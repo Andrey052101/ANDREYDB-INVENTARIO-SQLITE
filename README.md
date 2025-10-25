@@ -27,7 +27,7 @@ El sistema permite realizar operaciones básicas sobre una base de datos de inve
 |----------|-------------|
 | `ANDREYdb_SQLite_inventario1.ipynb` | Código principal del sistema |
 | `inventario.db` | Base de datos SQLite generada (si aplica) |
-| `evidencias/` | Carpeta con capturas o resultados de ejecución |
+
 
 ---
 
